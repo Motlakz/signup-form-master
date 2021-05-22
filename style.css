@@ -94,6 +94,6 @@ h1 {
 }
 @media screen and (max-width: 1440px) {
     .border {
-        height: 42vh;
+        height: 75vh;
     }
 }
